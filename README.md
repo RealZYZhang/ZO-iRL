@@ -1,11 +1,7 @@
-## <b>Webpage template</b>
+## <b>Zeroth-Order Implicit Reinforcement Learning for Sequential Decision Making in Distributed Control Systems</b>
 
-This webpage template was made for a [colorful ECCV paper](http://richzhang.github.io/colorization/). See how the webpage looks [here](https://richzhang.github.io/webpage-template).
+This repository is the GitHub Pages for introducing our work on implicit RL. See the webpage [here](https://realzyzhang.github.io/ZO-iRL/). 
 
-To use this template, clone the repo:
+You can see the [original paper](http://www.jinming.tech/papers/ZO-iRL.pdf) and the [source code](https://github.com/QasimWani/ZO-iRL). 
 
-```
-git clone https://github.com/richzhang/webpage-template.git
-```
-
-Copy the contents into a `gh-pages` branch of a GitHub repo. That will automatically make a webpage under address [GITHUB_USERNAME.github.io/REPO_NAME](GITHUB_USERNAME.github.io/REPO_NAME).
+*This webpage template is from [here](https://richzhang.github.io/webpage-template). Thanks Richard for making it public!
